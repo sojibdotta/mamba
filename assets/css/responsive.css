@@ -1,0 +1,263 @@
+@media screen and (max-width:1199px){
+
+    .about-right-title{
+        margin-top: 15px;
+    }
+    .about-card{
+        margin-bottom: 25px;
+    }
+    .services-card h4::after{
+        left: 108px;
+    }
+    .accordionHeader h3{
+        padding-right: 10px;
+    }
+    .accordionHeader::after{
+        right: 10px;
+    }
+
+}
+
+@media screen and (max-width:991px){
+
+    .myNav .nav-item .nav-link{
+        padding-left: 10px;
+    }
+    .navbar-brand{
+        animation: none;
+    }
+    .about-left{
+        width: 95%;
+        margin: auto;
+    }
+    .aboutList-card{
+        padding: 20px;
+    }
+    .services-card h4::after{
+        left: 68px;
+    }
+    .services-card p{
+        font-size: 13px;
+    }
+    .accordionHeader h3{
+        padding-right: 0px;
+    }
+    .accordionHeader::after{
+        right: 30px;
+    }
+    .email-box h6{
+        font-size: 12px;
+    }
+    .footer-card{
+        margin-bottom: 30px;
+    }
+    .footer-card .footer-search:hover input{
+        width: 98%;
+    }
+
+}
+
+
+@media screen and (max-width:767px){
+    .myNavbar{
+        background-color: #343A40 !important;
+    }
+    #bannerOne{
+        padding: 120px 0px;
+    }
+    #bannerTwo{
+        padding: 120px 0px;
+    }
+    #bannerThree{
+        padding: 120px 0px;
+    }
+    .banner-text h3{
+        font-size: 35px;
+    }
+    .about-left{
+        width: 90%;
+        margin: auto;
+    }
+    .aboutList-cardThree{
+        border-left: none;
+        border-right: 1px solid #d9e8f4;
+    }
+    .aboutList-border-bottom{
+        border-left: none;
+        border-right: 1px solid #d9e8f4;
+    }
+    .aboutList-cardFour{
+        border-top: none;
+        border-right: none;
+    }
+    .aboutList-cardSix{
+        border-top: 1px solid #d9e8f4;
+        border-right: none;
+    }
+    .aboutList-card h3{
+        font-size: 18px;
+    }
+    .counter-up{
+        margin-bottom: 30px;
+    }
+    .services-card h4::after{
+        left: 80px;
+    }
+    .portfolio-title p{
+        font-size: 13px;
+        line-height: 22px;
+    }
+    .address-box{
+        margin-bottom: 30px;
+    }
+    .email-box{
+        margin-bottom: 30px;
+    }
+    .textInput{
+        margin-bottom: 15px;
+    }
+    .footer-card .footer-search input{
+        width: 60%;
+    }
+    .footer-card .footer-search:hover input{
+        width: 60%;
+    }
+    .footer-card .footer-search i{
+        left: 55%;
+    }
+
+}
+
+@media screen and (max-width:575px){
+
+    .social-area ul li{
+        padding-left: 10px;
+    }
+    .social-area ul li:first-child{
+        padding-left: 0px;
+    }
+    .bannerOne{
+        padding: 0px 0px;
+        height: 400px !important;
+    }
+    .bannerTwo{
+        padding: 0px 0px;
+        height: 400px !important;
+    }
+    .bannerThree{
+        padding: 0px 0px;
+        height: 400px !important;
+    }
+    .banner-text{
+        margin-top: 70px;
+    }
+    .banner-text h3{
+        font-size: 22px;
+        margin-bottom: 15px !important;
+    }
+    .banner-text p{
+        font-size: 14px;
+        margin-bottom: 10px !important;
+    }
+    .slider1 .priv-arrow{
+        display: none !important;
+    }
+    .slider1 .next-arrow{
+        display: none !important;
+    }
+    .about-left{
+        width: 95%;
+        margin: auto;
+    }
+    .about-right {
+        width: 95%;
+        margin: auto;
+    }
+    .about-right-title h3{
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+    .about-right-title p{
+        font-size: 13px;
+        letter-spacing: 0.5px;
+        text-align: justify;
+    }
+    .about-card-left{
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .about-card-left .icon{
+        margin: auto;
+    }
+    .about-card-right{
+        width: 100%;
+        text-align: center;
+    }
+    .about-card-right h4{
+        font-size: 16px;
+    }
+    .about-card-right p{
+        font-size: 13px;
+        line-height: 22px;
+    }
+    .about-card-last{
+        margin-bottom: 0;
+    }
+    .aboutList-card{
+        border-bottom: 1px solid #d9e8f4;
+        text-align: center;
+        border-left: none;
+        border-right: none;
+        border-top: none;
+    }
+    .aboutList-cardSix{
+        border-bottom: none;
+    }
+    .counter-up{
+        box-shadow: none;
+    }
+    .services-card{
+        width: 95%;
+        margin: 20px auto;
+    }
+    .services-card h4::after{
+        display: none;
+    }
+    .portfolio-title{
+        width: 95%;
+        margin: auto;
+    }
+    .portfolio-title p{
+        font-size: 12px;
+        text-align: justify;
+    }
+    .accordionHeader h3{
+        font-size: 15px;
+        padding-right: 20px;
+    }
+    .accordionHeader::after{
+        right: 5px;
+    }
+    .accordion-text p{
+        font-size: 13px;
+    }
+    .footer-card h3{
+        font-size: 18px;
+    }
+    .footer-card h6{
+        font-size: 13px;
+    }
+    .footer-card p{
+        font-size: 14px;
+    }
+    .footer-card .footer-search input{
+        width: 75%;
+    }
+    .footer-card .footer-search:hover input{
+        width: 75%;
+    }
+    .footer-card .footer-search i{
+        left: 65%;
+    }
+
+}
